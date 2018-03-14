@@ -1,0 +1,19 @@
+[
+    {
+        "modid": "exampleplugin",
+        "name": "Example Plugin",
+        "version": "1.0",
+        "dependencies": [
+            "spongeapi@7.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.0.0"
+        ]
+    },
+    {
+        "modid": "kcwhitelist",
+        "name": "KCWhitelist",
+        "version": "1.0.0",
+        "description": "This is whitelist plugin."
+    }
+]
